@@ -1,4 +1,5 @@
-# <center> LDC </center>
+<center> LDC </center>
+
 ### UNIVERSIDAD COMPLUTENSE DE MADRID
 
 # MÁSTER DE PSICOLOGÍA GENERAL SANITARIA
