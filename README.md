@@ -9,6 +9,7 @@
 ### Descifrando la superresiliencia al trauma: Un análisis de redes retrospectivo de casos-control
 
 Autor: Pedro de la Muela Folgado
+
 Tutor: Carmelo Vázquez Valverde
 
 Curso académico: 2022/20233
@@ -17,6 +18,7 @@ Curso académico: 2022/20233
 **Resumen**
 Descifrando la superresiliencia al trauma: Un análisis de redes retrospectivo de casos-control
 La pandemia de la COVID-19, como potencial evento traumático, ha dado lugar a un incremento drástico en sintomatología asociada al trauma. A pesar de ello, la mayor parte de la población parece haber logrado mantener una respuesta sintomática resiliente durante este periodo. Así pues, con intención de explorar qué factores determina una u otra respuesta, esta investigación aplica el análisis de redes para detectar diferencias estructurales y de conectividad entre las redes de síntomas definidas por un grupo de individuos cuya respuesta sintomática ha sido resiliente y otro grupo cuya respuesta sintomática ha sido patológica en base a un potencial diagnóstico de trastorno de estrés postraumático. Se hipotetizó, que, además de encontrar diferencias estructurales, la red del segundo grupo estaría caracterizada por una mayor conectividad. Los datos pertenecen a la muestra española incluida en el estudio del COVID-19 Psychological Research Consortium (C19PRC) que incluía datos de sintomatología de ansiedad, depresión y estrés post-traumático. Así, la muestra estaba formado por un total de 1011 participantes, de los cuáles el 71,91% mantuvo una respuesta sintomática resiliente y un 28,09 mostró una respuesta sintomática patológica. No se hallaron diferencias significativas en la invarianza estructural, sin embargo, sí que se encontraron diferencias significativas en la fuerza global de la red en línea con las hipótesis planteadas. Los hallazgos de esta investigación resultan un aporte potencialmente valioso para el pronóstico de la respuesta resiliente/patológica y suponen una contribución modesta al afianzamiento del análisis de redes como metodología que permite identificar patrones que resultan invisibles ante otros métodos.
+
 **Palabras clave**: Resiliencia, Estrés Post-Traumático, Análisis de redes, COVID-19.
 
 **Abstract**
