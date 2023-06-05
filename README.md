@@ -1,9 +1,9 @@
-### <p style="text-align: center;">Universidad</p>
-### \center Complutense \center
-### \center Madrid \center 
+### UNIVERSIDAD COMPLUTENSE DE MADRID
 
-###TFM_Superresiliencia
+# <center> MÁSTER DE PSICOLOGÍA GENERAL SANITARIA </center>
 
-Here's some regular text.
-<p style="text-align: center;">A piece of centered text</p>
-And some more regular text.
+### FACULTAD DE PSICOLOGÍA
+
+## TRABAJO DE FIN DE MÁSTER
+
+# Descifrando la superresiliencia al trauma: Un análisis de redes retrospectivo de casos-control
